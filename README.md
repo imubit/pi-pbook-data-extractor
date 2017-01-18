@@ -14,3 +14,5 @@ This tool can be used to extract extensive tag history from PI Server using Proc
 
 You can change "Block size" value if you run low on memory, or PI Server is limited on how much data can be fetched per transaction (this value is an amount of tag samples extracted in a single iteration)
  
+ 
+-- Meir Tseitlin, Imubit
