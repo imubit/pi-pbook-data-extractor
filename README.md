@@ -2,7 +2,7 @@
 
 This tool can be used to extract extensive tag history from PI Server using ProcessBook only. The data can saved in CSV files (one file per tag).
 
-The tool is implemented as VB script only (without any external libraries)
+The tool is implemented as VB script only
 
 ## Usage
 
