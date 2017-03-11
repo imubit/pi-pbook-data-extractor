@@ -23,7 +23,7 @@ The tool is implemented as VB script only
 * You can change "Block size" value if you run low on memory, or PI Server is limited on how much data can be fetched per transaction (this value is an amount of tag samples extracted in a single iteration)
 * Sometimes it is conventient to change file prefix - "tag_", (i.e. while 2 tags have the same name) before clicking on "Extract"
 * Tag content can be previewed before extraction (e.g. for making sure it is not empty), by selecting tag name within tags list and clicking on "Preview Selected Tag History"
-
+* It is now possible to add new value to selected tag - make sure at least one tag is added to the tags list and select relevant tag from the list before adding a value
 
 ## Screenshots
 ![Screenshot](./Screenshot.png  "Screenshot")
