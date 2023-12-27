@@ -1,3 +1,8 @@
+# This tool is obsolete and is no longer supported
+
+Please use Data Extractor instead - https://github.com/imubit/qt-data-extractor
+
+
 # PI ProcessBook Tag Data Extractor
 
 This tool can be used to extract extensive tag history from PI Server using ProcessBook only. The data can saved in CSV files (one file per tag).
